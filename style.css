@@ -467,7 +467,7 @@ nav .fa-solid {
     }
 
     nav ul {
-        background: #FF004F;
+        background-image: linear-gradient(#152238 , #080808);
         position: fixed;
         top: 0;
         right: -200px;
