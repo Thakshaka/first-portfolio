@@ -424,6 +424,10 @@ nav .fa-solid {
         background-image: none;
     }
 
+    .logo {
+        width: 180px
+    }
+
     .header-text {
         margin-top: 100%;
         font-size: 18px;
